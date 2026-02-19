@@ -1,0 +1,47 @@
+LexAI RAG System – Accuracy Evaluation Report
+
+1.  Valid Driving Licence Provision Score: 4 / 10 Reason: Correct
+    concept but incorrect section number (should be Section 3, not
+    Section 1).
+
+2.  Definition of Motor Vehicle Score: 6 / 10 Reason: Mostly correct
+    definition, but incomplete ending and missing full engine capacity
+    exclusion.
+
+3.  Unregistered Motor Vehicle – Provision & Penalty Score: 9 / 10
+    Reason: Correct reference to Section 192 and correct penalty
+    details.
+
+4.  Third-Party Insurance Requirement & Punishment Score: 9 / 10 Reason:
+    Correct reference to Section 146 and accurate punishment details.
+
+5.  Owner Permitting Unlicensed Driver Score: 8 / 10 Reason: Correct
+    punishment and substance, but section number not clearly cited
+    (likely Section 180).
+
+6.  E-Rickshaw / E-Cart Licence Provisions Score: 8 / 10 Reason: Correct
+    references to Sections 7(10) and 2A; explanation could be clearer.
+
+7.  Rule-Making Powers of Central Government Score: 7 / 10 Reason:
+    Largely correct description but missing clear citation of main
+    section (Section 110).
+
+8.  Enhanced Penalties – 2019 Amendment Score: 6 / 10 Reason: Mentions
+    enhancement and examples but lacks structured explanation of
+    amendment impact.
+
+9.  No-Fault Liability Score: 10 / 10 Reason: Correctly states
+    information not present in dataset (proper RAG behavior).
+
+10. Landmark Supreme Court Judgments Score: 10 / 10 Reason: Correctly
+    states information not present in dataset (proper RAG behavior).
+
+  ----------------------------
+  Overall Accuracy: 77 / 100
+  Grade: B+
+  ----------------------------
+
+Summary: The RAG system demonstrates strong retrieval discipline and
+avoids hallucinations. Minor issues include incorrect section numbering
+and incomplete statutory quotations. Overall, the system shows good
+legal grounding with scope for citation precision improvements.
