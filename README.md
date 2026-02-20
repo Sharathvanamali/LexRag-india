@@ -178,13 +178,6 @@ Built as a Retrieval-Augmented Generation system for statutory law accuracy benc
 
 ---
 
-If you want, I can now generate:
 
-* 📌 A GitHub-optimized version with badges
-* 📊 A resume-ready project description
-* 🏆 A portfolio-style README
-* 📄 A research-paper style documentation version
-* 🚀 A startup-level product README
-
-Just tell me the target audience.
+.
 # LexRag-india
