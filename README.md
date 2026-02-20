@@ -1,4 +1,3 @@
-Here is a **professional, production-ready `README.md` content** for your RAG-based Indian Law bot project:
 
 ---
 
